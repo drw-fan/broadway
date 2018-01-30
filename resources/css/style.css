@@ -16,7 +16,7 @@ html{
   margin: 0;
   padding: 0;
 }
-a{
+.header a{
   color: white;
   font-size: 18px;
 }
@@ -45,7 +45,9 @@ p .process{
   font-size: 11px;
   color: white;
   background-color: dimgray;
-
+}
+.footer a{
+  color: white;
 }
 
 
