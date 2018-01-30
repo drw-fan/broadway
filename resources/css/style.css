@@ -1,7 +1,6 @@
 *{
   box-sizing: border-box;
 }
-
 html{
   text-align: center;
   font-family: helvetica;
@@ -12,12 +11,11 @@ html{
   background-color: white;
   color: white;
 }
-ul{
+.header ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-
 a{
   color: white;
   font-size: 18px;
@@ -26,6 +24,32 @@ a{
 h1{
   font-size: 70px;
 }
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+p .process{
+  font-size: 14px;
+}
+#design_NY{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#design_NY{
+  background-image: url("../images/the-flatiron-building.png");
+}
+.footer{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  display: inline-block;
+}
+
+
 
 .row::after {
     content: "";
