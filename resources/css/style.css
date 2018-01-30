@@ -37,16 +37,15 @@ p .process{
   font-size: 23px;
   font-weight: bold;
   color: white;
-}
-#design_NY{
   background-image: url("../images/the-flatiron-building.png");
 }
+
 .footer{
   text-align: left;
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  display: inline-block;
+
 }
 
 
